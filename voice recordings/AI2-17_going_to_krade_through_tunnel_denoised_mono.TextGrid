@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 85.96886458333333 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 85.96886458333333 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2520000000000004 
+            text = "xxx" 
+        intervals [2]:
+            xmin = 1.2520000000000004 
+            xmax = 4.252000000000001 
+            text = "" 
+        intervals [3]:
+            xmin = 4.252000000000001 
+            xmax = 6.708 
+            text = "xxx" 
+        intervals [4]:
+            xmin = 6.708 
+            xmax = 9.652 
+            text = "" 
+        intervals [5]:
+            xmin = 9.652 
+            xmax = 12.404 
+            text = "xxx" 
+        intervals [6]:
+            xmin = 12.404 
+            xmax = 15.964 
+            text = "" 
+        intervals [7]:
+            xmin = 15.964 
+            xmax = 18.227999999999998 
+            text = "xxx" 
+        intervals [8]:
+            xmin = 18.227999999999998 
+            xmax = 20.796000000000003 
+            text = "" 
+        intervals [9]:
+            xmin = 20.796000000000003 
+            xmax = 23.124 
+            text = "xxx" 
+        intervals [10]:
+            xmin = 23.124 
+            xmax = 25.900000000000002 
+            text = "" 
+        intervals [11]:
+            xmin = 25.900000000000002 
+            xmax = 28.204 
+            text = "xxx" 
+        intervals [12]:
+            xmin = 28.204 
+            xmax = 31.468000000000004 
+            text = "" 
+        intervals [13]:
+            xmin = 31.468000000000004 
+            xmax = 33.644 
+            text = "xxx" 
+        intervals [14]:
+            xmin = 33.644 
+            xmax = 36.876 
+            text = "" 
+        intervals [15]:
+            xmin = 36.876 
+            xmax = 39.14 
+            text = "xxx" 
+        intervals [16]:
+            xmin = 39.14 
+            xmax = 42.244 
+            text = "" 
+        intervals [17]:
+            xmin = 42.244 
+            xmax = 46.132 
+            text = "xxx" 
+        intervals [18]:
+            xmin = 46.132 
+            xmax = 49.236 
+            text = "" 
+        intervals [19]:
+            xmin = 49.236 
+            xmax = 51.019999999999996 
+            text = "xxx" 
+        intervals [20]:
+            xmin = 51.019999999999996 
+            xmax = 53.46 
+            text = "" 
+        intervals [21]:
+            xmin = 53.46 
+            xmax = 55.315999999999995 
+            text = "xxx" 
+        intervals [22]:
+            xmin = 55.315999999999995 
+            xmax = 58.348 
+            text = "" 
+        intervals [23]:
+            xmin = 58.348 
+            xmax = 60.24399999999999 
+            text = "xxx" 
+        intervals [24]:
+            xmin = 60.24399999999999 
+            xmax = 62.78 
+            text = "" 
+        intervals [25]:
+            xmin = 62.78 
+            xmax = 65.196 
+            text = "xxx" 
+        intervals [26]:
+            xmin = 65.196 
+            xmax = 68.52399999999999 
+            text = "" 
+        intervals [27]:
+            xmin = 68.52399999999999 
+            xmax = 70.604 
+            text = "xxx" 
+        intervals [28]:
+            xmin = 70.604 
+            xmax = 73.868 
+            text = "" 
+        intervals [29]:
+            xmin = 73.868 
+            xmax = 76.844 
+            text = "xxx" 
+        intervals [30]:
+            xmin = 76.844 
+            xmax = 79.72399999999999 
+            text = "" 
+        intervals [31]:
+            xmin = 79.72399999999999 
+            xmax = 81.35643229166668 
+            text = "xxx" 
+        intervals [32]:
+            xmin = 81.35643229166668 
+            xmax = 85.01428420608067 
+            text = "" 
+        intervals [33]:
+            xmin = 85.01428420608067 
+            xmax = 85.96886458333333 
+            text = "XXX" 

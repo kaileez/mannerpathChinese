@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 71.35347916666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 71.35347916666666 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1560000000000004 
+            text = "xxx" 
+        intervals [2]:
+            xmin = 1.1560000000000004 
+            xmax = 4.398726071538536 
+            text = "The monster is going to krade in front of the bell" 
+        intervals [3]:
+            xmin = 4.398726071538536 
+            xmax = 6.100000000000001 
+            text = "xxx" 
+        intervals [4]:
+            xmin = 6.100000000000001 
+            xmax = 8.748 
+            text = "The monster is going to glip over the mountain" 
+        intervals [5]:
+            xmin = 8.748 
+            xmax = 10.116000000000001 
+            text = "xxx" 
+        intervals [6]:
+            xmin = 10.116000000000001 
+            xmax = 12.724 
+            text = "The monster is going to zark through the waterfall" 
+        intervals [7]:
+            xmin = 12.724 
+            xmax = 14.276 
+            text = "xxx" 
+        intervals [8]:
+            xmin = 14.276 
+            xmax = 17.932000000000002 
+            text = "The monster is going to molk between the snowmen" 
+        intervals [9]:
+            xmin = 17.932000000000002 
+            xmax = 19.692 
+            text = "xxx" 
+        intervals [10]:
+            xmin = 19.692 
+            xmax = 22.020000000000003 
+            text = "The monster is going to torg around the drum" 
+        intervals [11]:
+            xmin = 22.020000000000003 
+            xmax = 23.7 
+            text = "xxx" 
+        intervals [12]:
+            xmin = 23.7 
+            xmax = 26.700000000000003 
+            text = "The monster is going to pim up to the monkey" 
+        intervals [13]:
+            xmin = 26.700000000000003 
+            xmax = 28.227999999999998 
+            text = "xxx" 
+        intervals [14]:
+            xmin = 28.227999999999998 
+            xmax = 31.092000000000002 
+            text = "The monster is going to birk into the spaceship" 
+        intervals [15]:
+            xmin = 31.092000000000002 
+            xmax = 32.9 
+            text = "xxx" 
+        intervals [16]:
+            xmin = 32.9 
+            xmax = 35.580000000000005 
+            text = "The monster is going to dack up to the owl " 
+        intervals [17]:
+            xmin = 35.580000000000005 
+            xmax = 37.284 
+            text = "xxx" 
+        intervals [18]:
+            xmin = 37.284 
+            xmax = 39.916000000000004 
+            text = "The monster is going to krade into the castle" 
+        intervals [19]:
+            xmin = 39.916000000000004 
+            xmax = 41.62 
+            text = "xxx" 
+        intervals [20]:
+            xmin = 41.62 
+            xmax = 44.116 
+            text = "The monster is going to glip down to the dog" 
+        intervals [21]:
+            xmin = 44.116 
+            xmax = 45.724 
+            text = "xxx" 
+        intervals [22]:
+            xmin = 45.724 
+            xmax = 48.66 
+            text = "The monster is going to zark up to the monkey" 
+        intervals [23]:
+            xmin = 48.66 
+            xmax = 50.267999999999994 
+            text = "xxx" 
+        intervals [24]:
+            xmin = 50.267999999999994 
+            xmax = 52.46 
+            text = "The monster is going to molk around the drum" 
+        intervals [25]:
+            xmin = 52.46 
+            xmax = 54.227999999999994 
+            text = "xxx" 
+        intervals [26]:
+            xmin = 54.227999999999994 
+            xmax = 57.028 
+            text = "The monster is going to torg between the snowmen" 
+        intervals [27]:
+            xmin = 57.028 
+            xmax = 58.748 
+            text = "xxx" 
+        intervals [28]:
+            xmin = 58.748 
+            xmax = 61.408399114777446 
+            text = "The monster is going to pim through the waterfall" 
+        intervals [29]:
+            xmin = 61.408399114777446 
+            xmax = 63.05273958333333 
+            text = "xxx" 
+        intervals [30]:
+            xmin = 63.05273958333333 
+            xmax = 65.74073958333332 
+            text = "The monster is going to birk over the mountain" 
+        intervals [31]:
+            xmin = 65.74073958333332 
+            xmax = 67.30073958333334 
+            text = "xxx" 
+        intervals [32]:
+            xmin = 67.30073958333334 
+            xmax = 70.27357575884105 
+            text = "The monster is going to dack in front of the bell" 
+        intervals [33]:
+            xmin = 70.27357575884105 
+            xmax = 71.35347916666666 
+            text = "" 
