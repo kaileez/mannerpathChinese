@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 30.72959375 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 30.72959375 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2927042744752455 
+            text = "xxx" 
+        intervals [2]:
+            xmin = 1.2927042744752455 
+            xmax = 4.123508950279761 
+            text = "The monster torged between the trees" 
+        intervals [3]:
+            xmin = 4.123508950279761 
+            xmax = 6.177675297780527 
+            text = "xxx" 
+        intervals [4]:
+            xmin = 6.177675297780527 
+            xmax = 8.623176003822762 
+            text = "The monster pimmed through the flowers" 
+        intervals [5]:
+            xmin = 8.623176003822762 
+            xmax = 10.671939472656929 
+            text = "xxx" 
+        intervals [6]:
+            xmin = 10.671939472656929 
+            xmax = 13.454852447790035 
+            text = "The monster birked over the cone" 
+        intervals [7]:
+            xmin = 13.454852447790035 
+            xmax = 15.837446383258836 
+            text = "xxx" 
+        intervals [8]:
+            xmin = 15.837446383258836 
+            xmax = 18.852 
+            text = "The monster dacked in front of the elephant" 
+        intervals [9]:
+            xmin = 18.852 
+            xmax = 20.764796875 
+            text = "xxx" 
+        intervals [10]:
+            xmin = 20.764796875 
+            xmax = 23.692796875 
+            text = "The monster molked through the tree" 
+        intervals [11]:
+            xmin = 23.692796875 
+            xmax = 25.81975016812796 
+            text = "xxx" 
+        intervals [12]:
+            xmin = 25.81975016812796 
+            xmax = 29.020132120676177 
+            text = "The monster zarked between the seesaws " 
+        intervals [13]:
+            xmin = 29.020132120676177 
+            xmax = 30.72959375 
+            text = "xxx" 
