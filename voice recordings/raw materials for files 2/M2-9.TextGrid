@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 33.344 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 33.344 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1447837812012274 
+            text = "xxx" 
+        intervals [2]:
+            xmin = 1.1447837812012274 
+            xmax = 3.786868144736094 
+            text = "This video shows kuo2" 
+        intervals [3]:
+            xmin = 3.786868144736094 
+            xmax = 4.788 
+            text = "xxx" 
+        intervals [4]:
+            xmin = 4.788 
+            xmax = 7.356 
+            text = "This video shows jiong3" 
+        intervals [5]:
+            xmin = 7.356 
+            xmax = 8.772 
+            text = "xxx" 
+        intervals [6]:
+            xmin = 8.772 
+            xmax = 11.427999999999999 
+            text = "This video shows liao2" 
+        intervals [7]:
+            xmin = 11.427999999999999 
+            xmax = 12.5 
+            text = "xxx" 
+        intervals [8]:
+            xmin = 12.5 
+            xmax = 15.204 
+            text = "This video shows pan3" 
+        intervals [9]:
+            xmin = 15.204 
+            xmax = 16.427999999999997 
+            text = "xxx" 
+        intervals [10]:
+            xmin = 16.427999999999997 
+            xmax = 18.876 
+            text = "This video shows mou2" 
+        intervals [11]:
+            xmin = 18.876 
+            xmax = 19.992 
+            text = "xxx" 
+        intervals [12]:
+            xmin = 19.992 
+            xmax = 22.720000000000002 
+            text = "This video shows suo3" 
+        intervals [13]:
+            xmin = 22.720000000000002 
+            xmax = 23.8 
+            text = "xxx" 
+        intervals [14]:
+            xmin = 23.8 
+            xmax = 26.424000000000003 
+            text = "This video shows lia3" 
+        intervals [15]:
+            xmin = 26.424000000000003 
+            xmax = 27.288 
+            text = "xxx" 
+        intervals [16]:
+            xmin = 27.288 
+            xmax = 29.728 
+            text = "This video shows han4" 
+        intervals [17]:
+            xmin = 29.728 
+            xmax = 33.23717793327593 
+            text = "xxx" 
+        intervals [18]:
+            xmin = 33.23717793327593 
+            xmax = 33.344 
+            text = "" 
