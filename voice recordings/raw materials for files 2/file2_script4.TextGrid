@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 48.15017708333333 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 48.15017708333333 
+        intervals: size = 32 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13827545202628816 
+            text = "Which video shows krading" 
+        intervals [2]:
+            xmin = 0.13827545202628816 
+            xmax = 1.9625717986558653 
+            text = "xxx" 
+        intervals [3]:
+            xmin = 1.9625717986558653 
+            xmax = 4.428000000000001 
+            text = "Which video shows krading" 
+        intervals [4]:
+            xmin = 4.428000000000001 
+            xmax = 5.268000000000001 
+            text = "xxx" 
+        intervals [5]:
+            xmin = 5.268000000000001 
+            xmax = 7.66 
+            text = "Which video shows glipping" 
+        intervals [6]:
+            xmin = 7.66 
+            xmax = 8.976676717593723 
+            text = "xxx" 
+        intervals [7]:
+            xmin = 8.976676717593723 
+            xmax = 11.452 
+            text = "Which video shows zarking" 
+        intervals [8]:
+            xmin = 11.452 
+            xmax = 12.012 
+            text = "xxx" 
+        intervals [9]:
+            xmin = 12.012 
+            xmax = 14.324 
+            text = "Which video shows molking" 
+        intervals [10]:
+            xmin = 14.324 
+            xmax = 15.116000000000001 
+            text = "xxx" 
+        intervals [11]:
+            xmin = 15.116000000000001 
+            xmax = 17.348000000000003 
+            text = "Which video shows torging" 
+        intervals [12]:
+            xmin = 17.348000000000003 
+            xmax = 18.012 
+            text = "xxx" 
+        intervals [13]:
+            xmin = 18.012 
+            xmax = 20.46 
+            text = "Which video shows pimming" 
+        intervals [14]:
+            xmin = 20.46 
+            xmax = 21.139999999999997 
+            text = "xxx" 
+        intervals [15]:
+            xmin = 21.139999999999997 
+            xmax = 23.572000000000003 
+            text = "Which video shows birking" 
+        intervals [16]:
+            xmin = 23.572000000000003 
+            xmax = 24.235999999999997 
+            text = "xxx" 
+        intervals [17]:
+            xmin = 24.235999999999997 
+            xmax = 26.46 
+            text = "Which video shows dacking" 
+        intervals [18]:
+            xmin = 26.46 
+            xmax = 27.22 
+            text = "xxx" 
+        intervals [19]:
+            xmin = 27.22 
+            xmax = 29.556 
+            text = "Which video shows blicking" 
+        intervals [20]:
+            xmin = 29.556 
+            xmax = 30.188 
+            text = "xxx" 
+        intervals [21]:
+            xmin = 30.188 
+            xmax = 32.548 
+            text = "Which video shows gossing" 
+        intervals [22]:
+            xmin = 32.548 
+            xmax = 33.284 
+            text = "xxx" 
+        intervals [23]:
+            xmin = 33.284 
+            xmax = 35.5 
+            text = "Which video shows nibbing" 
+        intervals [24]:
+            xmin = 35.5 
+            xmax = 36.187999999999995 
+            text = "xxx" 
+        intervals [25]:
+            xmin = 36.187999999999995 
+            xmax = 38.364 
+            text = "Which video shows gorping" 
+        intervals [26]:
+            xmin = 38.364 
+            xmax = 39.052 
+            text = "xxx" 
+        intervals [27]:
+            xmin = 39.052 
+            xmax = 41.31108854166666 
+            text = "Which video shows klebbing" 
+        intervals [28]:
+            xmin = 41.31108854166666 
+            xmax = 42.055088541666656 
+            text = "xxx" 
+        intervals [29]:
+            xmin = 42.055088541666656 
+            xmax = 44.31108854166666 
+            text = "Which video shows wugging" 
+        intervals [30]:
+            xmin = 44.31108854166666 
+            xmax = 44.87908854166666 
+            text = "xxx" 
+        intervals [31]:
+            xmin = 44.87908854166666 
+            xmax = 47.20163649469144 
+            text = "Which video shows rolting" 
+        intervals [32]:
+            xmin = 47.20163649469144 
+            xmax = 48.15017708333333 
+            text = "xxx" 
